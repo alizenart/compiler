@@ -1,0 +1,49 @@
+
+Instruction what fruits do you like?
+**prints out
+name1.typein
+**makes the first String equal to the variable that was typed in
+  
+Instruction enter a number
+**print
+num1.typein
+**makes first int equal to the number input -- x = pencil.nextInt()
+
+
+Instruction enter a number
+**print
+num2.typein
+**makes second int equal to the number input -- x = pencil.nextInt()
+
+Instruction what operation would you like?(1- add, 2-subtract, 3-mult, 4-divide, 5-mod)
+**print
+num3.typein
+**makes third int equal to number input
+
+
+if num3 equals 1
+add num1 num2
+  
+if num3 equals 2
+subtract num1 num2
+  
+if num3 equals 3
+multiply num1 num2
+  
+if num3 equals 4
+divide num1 num2
+  
+if num3 equals 5
+mod num1 num2
+
+
+repeat(4)
+Instruction hello there!
+
+
+  
+  
+
+
+
+  
